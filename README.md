@@ -1,0 +1,1 @@
+# IntegrationTemplate_ASP.NET-Core-MVC-
