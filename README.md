@@ -43,5 +43,5 @@
 ![Project 23](https://github.com/Amir0055/IntegrationTemplate_ASP.NET-Core--MVC/assets/93008466/0ddb973e-1646-4be1-8922-12ee5107539e)
 
 >For more details step by step 
-[lien. ](https://github.com/Amir0055/IntegrationTemplate_ASP.NET-Core--MVC/edit/main/README.md)
+[lien. ](https://github.com/Amir0055/IntegrationTemplate_ASP.NET-Core--MVC/wiki/Aspet.NET-Core-MVC-Template-Integration)
 
